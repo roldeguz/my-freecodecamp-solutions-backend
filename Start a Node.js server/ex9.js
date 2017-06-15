@@ -1,4 +1,6 @@
 //Exercise 9
+//Juggling async
+
 var http = require("http");
 var bl = require("bl");
 
