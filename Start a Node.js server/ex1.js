@@ -1,4 +1,4 @@
 //Exercise 1
-//My first I/O
+//Hello World
 
 console.log("HELLO WORLD");
