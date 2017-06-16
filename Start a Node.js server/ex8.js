@@ -1,5 +1,5 @@
 //Exercise 8
-//http collect
+//Http collect
 
 var http = require("http");
 var bl = require("bl");
