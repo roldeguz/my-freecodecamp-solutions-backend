@@ -1,5 +1,5 @@
 //Exercise 13
-//http json api server
+//Http json api server
 
 var http = require("http");
 var url = require("url");
