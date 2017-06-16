@@ -1,4 +1,5 @@
 //Exercise 3
+//filtered ls
 var fs = require("fs");
 
 var buff = fs.readFileSync(process.argv[2]);
