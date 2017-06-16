@@ -1,5 +1,5 @@
 //Exercise 5
-//Make it modular
+//Filtered ls
 
 var fs = require("fs");
 var path = require("path");
