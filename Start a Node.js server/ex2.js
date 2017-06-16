@@ -1,5 +1,5 @@
 //Exercise 2
-//My first async I/O
+//Baby steps
 
 var sum = 0;
 for (var i = 2; i < process.argv.length; i++) {
