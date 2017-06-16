@@ -1,4 +1,6 @@
 //Exercise 5
+//Make it modular
+
 var fs = require("fs");
 var path = require("path");
 
