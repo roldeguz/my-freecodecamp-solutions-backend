@@ -1,5 +1,5 @@
 //Exercise 12
-//http uppercaser
+//Http uppercaser
 
 var http = require("http");
 var map = require("through2-map");
