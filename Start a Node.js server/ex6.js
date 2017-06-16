@@ -1,4 +1,6 @@
 //Exercise 6
+//Make it modular
+
 var myModule = require("./ex5");
 
 var folder = process.argv[2]; //path arg
