@@ -1,5 +1,6 @@
 //Exercise 3
 //Find
+//To start mongo: mongod --port 27017 --dbpath=./data --smallfiles
 
 var mongo = require("mongodb").MongoClient;
 var url = "mongodb://localhost:27017/learnyoumongo";
